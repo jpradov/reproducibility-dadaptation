@@ -1,0 +1,6 @@
+name: ml_project2_ml_hype
+channels:
+  - defaults
+dependencies:
+  - python=3.10.11
+  - pip

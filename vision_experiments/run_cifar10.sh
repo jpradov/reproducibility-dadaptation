@@ -1,0 +1,1 @@
+python vision_experiments/cifar10_experiment.py --depth 16 --widen_factor 8 --dropout 0.3 --num_epochs 300 --batch_size_per_gpu 128 --learning_rate 0.1 --momentum 0.9 --weight_decay 0.0001 --seed_count 2 --confusion_matrix

@@ -1,0 +1,1 @@
+python experiments/cifar100_experiment.py --dropout 0.3 --num_epochs 300 --batch_size_per_gpu 64 --learning_rate 0.05 --momentum 0.9 --weight_decay 0.0002 --seed_count 3 --confusion_matrix --dadaptation
